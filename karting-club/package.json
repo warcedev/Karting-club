@@ -1,0 +1,14 @@
+{
+  "name": "karting-club",
+  "version": "1.0.0",
+  "description": "Sitio web del club de karting",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
